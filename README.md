@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->musulmancoin/>
 cripto valiyuta
 1$
-1000000coin
-Falistin and Uzbekistan
+< 1000000coin/>
+<Falistin and Uzbekistan/>
 
 
